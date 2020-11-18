@@ -11,6 +11,11 @@
 *   and use your program.  If your program has "built-in" instructions
 *   or a tutorial you should say that here and forgo a long description.
  *
+ *  Bonus Features (upto 10 pts) - List here
+ *  1)
+ *  2)
+ *  3)
+ *
  *  Required Programming Skills (must have 4 of 5):
  *   1) Dynamic Memory Allocation
  *          What you did to meet this req: xxx
