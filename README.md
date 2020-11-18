@@ -5,7 +5,7 @@ Follow these instructions for proper submission and a chance at
 credit.
 
 1.  Put your documentation statement in the file that contains main() or
-    equivalent.  The comment block to use is included in the file header.c
+    equivalent.  The comment block to use is included in the file header.txt
     file in this repo.  Be sure to fill this out thouroughly and do not use
     one of your own design.
 
