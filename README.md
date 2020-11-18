@@ -22,3 +22,6 @@ credit.
     and then cloning locally to a different director than your development
     directory.  You should be able to build and run your final project from
     this new location.
+    
+6.  Do not add files that are created by the build process to your repo (*.exe,
+    *.obj, *.lnk, *.pdb).  The .gitignore settings should prevent this.
