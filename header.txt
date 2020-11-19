@@ -16,7 +16,7 @@
  *  2)
  *  3)
  *
- *  Required Programming Skills (must have 4 of 5):
+ *  Required Programming Skills (must have 5 of 6):
  *   1) Dynamic Memory Allocation
  *          What you did to meet this req: xxx
  *              File: (file where example is located)
@@ -35,6 +35,11 @@
  *              Line#:
  *
  *   5) String Manipulation
+ *          What you did to meet this req: xxx
+ *              File:
+ *              Line#:
+ *
+ *   6) Processing of Array Data
  *          What you did to meet this req: xxx
  *              File:
  *              Line#:
